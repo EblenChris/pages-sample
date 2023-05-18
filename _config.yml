@@ -28,7 +28,7 @@ twitter_username: NA
 github_username:  EblenChris
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
